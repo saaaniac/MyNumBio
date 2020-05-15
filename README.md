@@ -1,3 +1,3 @@
 # MyNumBio
 
-coucou les potos</br>
+coucou <b>les</b> potos</br>
